@@ -1,4 +1,4 @@
-﻿# Music Generation with LSTM Based RNN
+﻿# Composer AI - Music Generation with LSTM Based RNN
 This notebook includes implementation of music generation with LSTM based RNN that covered in MIT 6.S191 Introduction to Deep Learning lab 2.
 ## Data
 Dataset is compiled from [ Cobb's Music of Ireland.](https://cobb.ece.wisc.edu/irish/Tunebook.html)
